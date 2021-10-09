@@ -1,0 +1,3 @@
+G:\Новая папка\vs\sisp\laba16\laba16\Debug\laba16.vcxproj.AssemblyReference.cache
+G:\Новая папка\vs\sisp\laba16\laba16\Debug\laba16.MyForm.resources
+G:\Новая папка\vs\sisp\laba16\laba16\Debug\laba16.vcxproj.GenerateResource.cache
