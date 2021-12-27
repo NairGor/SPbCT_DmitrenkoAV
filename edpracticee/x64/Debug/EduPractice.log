@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication.vcxproj, EduPractice.vcxproj, EP.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+C:\Новая папка\vs\sisp\edpracticee\MyForm.h(262,11): warning C4566: символ, представленный универсальным именем символа "\u0D9E", невозможно представить в текущей кодовой странице (1251)
+C:\Новая папка\vs\sisp\edpracticee\MyForm.h(282,13): warning C4566: символ, представленный универсальным именем символа "\u0D9E", невозможно представить в текущей кодовой странице (1251)
+C:\Новая папка\vs\sisp\edpracticee\MyForm.h(224,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Новая папка\vs\sisp\edpracticee\MyForm.h(241,21): warning C4101: e: неиспользованная локальная переменная
+C:\Новая папка\vs\sisp\edpracticee\MyForm.h(307,21): warning C4101: e: неиспользованная локальная переменная
+  DLL.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+     Создается библиотека C:\Новая папка\vs\sisp\edpracticee\x64\Debug\EP_form.lib и объект C:\Новая папка\vs\sisp\edpracticee\x64\Debug\EP_form.exp
+  EduPractice.vcxproj -> C:\Новая папка\vs\sisp\edpracticee\x64\Debug\EP_form.exe
