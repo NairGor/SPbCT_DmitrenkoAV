@@ -1,7 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication.vcxproj, EduPractice.vcxproj, EP_form.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  main.cpp
-C:\Новая папка\vs\sisp\edpracticee\main.cpp(70,24): warning C4566: символ, представленный универсальным именем символа "\u0D9E", невозможно представить в текущей кодовой странице (1251)
-  DLL.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
-     Создается библиотека C:\Новая папка\vs\sisp\edpracticee\x64\Debug\EP.lib и объект C:\Новая папка\vs\sisp\edpracticee\x64\Debug\EP.exp
-  ConsoleApplication.vcxproj -> C:\Новая папка\vs\sisp\edpracticee\x64\Debug\EP.exe
